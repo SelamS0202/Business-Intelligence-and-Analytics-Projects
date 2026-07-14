@@ -1,4 +1,4 @@
-#  Sales Dashboard – Power BI Portfolio Project
+#  Sales Analytics Dashboard – Power BI Portfolio Project
 
 An end-to-end data analytics project showcasing ETL with Python, SQL Server view design, and Power BI dashboard development using a sample retail sales dataset.
 
